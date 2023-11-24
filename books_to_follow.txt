@@ -1,0 +1,21 @@
+Core Java - Hortsmann
+Java How to Program - Deitel 
+Java Biginners Guide - Sldt
+
+
+
+1_H_Schildt_Beginner's_Guide
+
+2_Core_Java_p1
+2_Core_Java_p2
+
+3_Ditel_Java
+3_goalkickjava
+
+4_Java Projects
+4_Java_Challenges_100
+4_Java_Coding_Problems
+
+5_40_Algorithms
+
+6_Java_Design_Patterns
