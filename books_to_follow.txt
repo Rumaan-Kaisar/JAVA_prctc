@@ -19,3 +19,59 @@ Java Biginners Guide - Sldt
 5_40_Algorithms
 
 6_Java_Design_Patterns
+
+
+
+-=-=-=-=-=-=    JAVA - prctc (project based)    -=-=-=-=-=-=
+
+---------    Folder structure    ---------
+    
+    chapter1_name: 
+        project1_folder:
+            java-file
+        project2_folder:
+            java-file
+
+    chapter2_name: 
+        project1_folder:
+            java-file
+        project2_folder:
+            java-file
+
+
+
+
+---------    BOOKS    ---------
+
+projects:
+    1 Java Projects : Peter Verhas
+    2 Java Coding Problems : Anghel Leonard
+    3 Java Challenges 100+ Proven Tasks : Michael Inden
+    4 outline : programming with JAVA
+
+
+References:
+    1 goalkick_java
+    2 oracle sldt java complete reference
+
+
+Text:
+    1 CORE java - 1 & 2
+    2 Outline : DSA with java
+    
+    3 pearson: JAVA 21 days
+    4 pearson: JAVA 24 hrs
+    
+    5 Deitel
+    6 Sldt
+
+
+
+
+simple_apps
+web_apps
+
+array_app
+dsa
+math
+OOP
